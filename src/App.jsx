@@ -8,6 +8,7 @@ function App() {
       <h1>
         <mark>Dragon Branch</mark>
       </h1>
+      <h3>Student branch</h3>
     </div>
   );
 }
