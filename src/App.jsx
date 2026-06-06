@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>346 team start project</h1>
+      <h3>Student branch</h3>
     </div>
   );
 }
